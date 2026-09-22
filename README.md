@@ -146,6 +146,8 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 ## Conferences
 
 * [CoinDesk Events](http://www.coindesk.com/bitcoin-events/)
+* [Bitcoin FilmFest 🐰🎬](https://bitcoinfilmfest.com/) - Annual Bitcoin-only film festival exploring financial freedom through cinema. June 4-7, Warsaw, Poland.
+* [Awesome Bitcoin Events 📅](https://github.com/itstomekk/awesome-bitcoin-events) - Community-maintained calendar of international Bitcoin conferences, meetups, retreats, and festivals.
 
 ## Directories
 
