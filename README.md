@@ -129,6 +129,7 @@ A curated list of awesome blockchain, cryptocurrency and fintech resources. Earl
 * [Cryptocompare](https://www.cryptocompare.com/)
 * [CryptoIndex](http://cryptoindex.com)
 * [Cryptowatch](https://cryptowat.ch/)
+* [Chartscout](https://Chartscout.io/)
 * [Smartbit - Charts](https://www.smartbit.com.au/charts)
 * [TradeBlock](https://tradeblock.com/markets)
 * [Trading View](https://www.tradingview.com/chart/)
